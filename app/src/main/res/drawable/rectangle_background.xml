@@ -4,7 +4,7 @@
     android:padding = "10dp"
     android:thickness="12dp">
     <stroke android:width = "2dp"
-        android:color = "#4C56C0"/>
+        android:color = "@color/dark_purple"/>
     <corners android:radius="6dp"/>
 
 </shape>

@@ -2,6 +2,6 @@
     <corners android:bottomLeftRadius="30dp"
         android:bottomRightRadius="30dp"/>
     <gradient
-        android:endColor="#4C56C0"
-        android:startColor="#4C56C0"/>
+        android:endColor="@color/dark_purple"
+        android:startColor="@color/dark_purple"/>
 </shape>
